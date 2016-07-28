@@ -1,0 +1,7 @@
+# NET Core 1.0 Boilerplate
+# Repo: http://github.com/SourceCode/netcoreboiler
+# License: MIT
+
+# Ignore Directories
+.vagrant/
+.idea/
