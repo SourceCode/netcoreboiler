@@ -1,5 +1,5 @@
 #NET Core 1.0 Boilerplate
-The NET Core 1.0 Boilerplate is a vagrant box that installs Ubuntu 14.04, NET Core 1.0, and Node JS.  It also has optional packages you can install in the provision.sh shell script.
+The NET Core 1.0 Boilerplate is a vagrant box that installs Ubuntu 14.04, NET Core 1.0, and Node JS.  It also has optional packages you can install in the vagrant/bootstrap.sh shell script.
 
 ##System Requirements
 * Vagrant
